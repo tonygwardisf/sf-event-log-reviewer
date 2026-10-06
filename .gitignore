@@ -1,0 +1,11 @@
+# Downloaded event logs, digests and reviews: contain usernames, IPs and org data
+logs/
+
+# Windows download markers created when copying files into WSL
+*:Zone.Identifier
+
+# Local-only Claude Code settings
+.claude/settings.local.json
+
+__pycache__/
+*.pyc

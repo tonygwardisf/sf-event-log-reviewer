@@ -1,0 +1,9 @@
+{
+  "name": "sf-event-logs",
+  "displayName": "Salesforce Event Log Review",
+  "version": "0.1.0",
+  "description": "Download a day's Salesforce Event Monitoring logs and summarise security, access and stability concerns against a 7-day baseline.",
+  "author": { "name": "Tony Ward", "email": "tony.ward@immersiveai.co.uk" },
+  "repository": "https://github.com/tonygwardisf/sf-event-log-reviewer",
+  "keywords": ["salesforce", "event-monitoring", "security", "eventlogfile"]
+}

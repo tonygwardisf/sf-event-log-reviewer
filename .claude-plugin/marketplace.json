@@ -1,0 +1,16 @@
+{
+  "name": "sf-event-log-reviewer",
+  "description": "Salesforce Event Monitoring tools for Claude Code.",
+  "owner": {
+    "name": "Tony Ward",
+    "email": "tony.ward@immersiveai.co.uk"
+  },
+  "plugins": [
+    {
+      "name": "sf-event-logs",
+      "source": "./",
+      "description": "Daily Salesforce Event Monitoring log review: download, digest against a baseline, and flag concerns.",
+      "version": "0.1.0"
+    }
+  ]
+}
